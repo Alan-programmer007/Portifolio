@@ -439,6 +439,10 @@ span {
     animation: fullBar 2.5s 1;
 }
 
+.skill-per:hover {
+    box-shadow: 0 0 25px var(--main-color);
+}
+
 .skill-per::before {
     content: attr(per);
     position: absolute;
