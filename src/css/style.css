@@ -13,7 +13,7 @@
     --bg-color: #080808;
     --second-bg-color: #131313;
     --text-color: aliceblue;
-    --main-color: #00ffee;
+    --main-color: #04BF68;
 }
 
 html {
@@ -155,7 +155,7 @@ span {
     border: 2px solid var(--main-color);
     font-size: 2.5rem;
     border-radius: 50%;
-    color: var(--main-color);
+    color: aliceblue;
     margin: 3rem 1.5rem 3rem 0;
     transition: 0.4s ease-in-out;
 }
@@ -505,7 +505,7 @@ span {
 }
 
 .expe-box:hover {
-    background: white;
+    background: aliceblue;
     color: var(--bg-color);
     border: 5px solid var(--main-color);
     transform: scale(1.05);
@@ -541,7 +541,7 @@ span {
 
 .contato h2 {
     margin-bottom: 3rem;
-    color: white;
+    color: aliceblue;
 }
 
 .contato form {
@@ -593,7 +593,7 @@ span {
 
 .footer .social a {
     font-size: 25px;
-    color: var(--main-color);
+    color: aliceblue;
     border: 2px solid var(--main-color);
     width: 42px;
     height: 42px;
@@ -622,7 +622,7 @@ span {
 }
 
 .footer ul li a {
-    color: white;
+    color: aliceblue;
     border-bottom: 3px solid transparent;
     transition: 0.4s ease-in-out;
 }
@@ -640,5 +640,5 @@ span {
     margin-top: 50px;
     text-align: center;
     font-size: 16px;
-    color: white;
+    color: aliceblue;
 }
